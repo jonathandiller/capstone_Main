@@ -1,5 +1,5 @@
 #include<Servo.h>
-// mades some changes
+// this is all wrong
 /////////////intiation variables for SERVO control////////////
 Servo myservoAngle;
 Servo myservoUpDown1;
